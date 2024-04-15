@@ -8,19 +8,30 @@ IDEAS are worth nothing in the Gaming Industry since every person working in tha
 
 All rights reserved while working out the details, except as described here. We are building a shared Universe within the overall MetaVerse and Derivative Works are encouraged. All contributers retain ownership of their contributions.
 
-# The AtonementTrilogy
-# Atonement - Part 1 - "lost in time, never enough, try with everything you have"
-# Redemption - Part 2 - "finding the North Star, navigating the possible"
-# Transcendence - Part 3 - "the abyss is really gazing at you waiting for reality convergence"
+# The Atonement Trilogy
+
+# Atonement - Part 1
+
+- "lost in time, never enough, try with everything you have"
+
+# Redemption - Part 2 
+
+- "finding the North Star, navigating the possible"
+
+# Transcendence - Part 3
+
+- "the abyss is really gazing at you waiting for reality convergence"
+
+# Description
 
 - Game Trilogy using Unreal designed to be inclusive, collaborative and accepting community contributions
 - Both Single Player with Loosely Coupled Multiplayer as a walking simulator lived in environment to base each narrative
 
-# Status
+### Status
 
 Mainly background info for the story narrative and description of a few significant locations
 
-# What is Different
+### What is Different
 
 Although games, like books, can have infinite variations and there is always room for one more story, it is also true that every story that wants to be told wnats to have its own unique special place in the hearts of the reader
 
@@ -32,17 +43,17 @@ This story is one answer to Fermi's Paradox and also describes a future where AI
 - an environment to be lived in where possible
 - no Sci-Fi tropes
 
-# What is NOT different
+### What is NOT different
 
 - like every game it has to be limited enough to be acievable and deleverable
 
 # General Story Description
 
-# Components
+## Components
 
 ### Skim Pilots's Guild
 
-# Locations
+## Locations
 
 ### Rift City
 
