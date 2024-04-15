@@ -1,16 +1,20 @@
-### You can ignore this material unless you find it interesting in some manner. It will take a long time for anything to happen, if ever.
+-You can ignore this material unless you find it interesting in some manner. It will take a long time for anything to happen, if ever-
 
-## VerseMetaVerse Fair Collaboration License
+"Over the top and around the bend who can say where you find the ends"
 
-All rights reserved except as described here. We are building a shared Universe within the overall MetaVerse and Derivative Works are encouraged. All contributers retain ownership of their contributions.
+IDEAS are worth nothing in the Gaming Industry since every person working in that business has many many ideas stored up over the years that just need "a little funding (or a lot)" and so one place for any ideas that anyone thinks could be of interest to people is just out in the open for no other reason than every story wants itself to be told..."
 
-# AtonementTrilogy
-# Atonement
-# Redemption
-# Transcendence
+### VerseMetaVerse Gaming Fair Collaboration License
+
+All rights reserved while working out the details, except as described here. We are building a shared Universe within the overall MetaVerse and Derivative Works are encouraged. All contributers retain ownership of their contributions.
+
+# The AtonementTrilogy
+# Atonement - Part 1 - "lost in time, never enough, try with everything you have"
+# Redemption - Part 2 - "finding the North Star, navigating the possible"
+# Transcendence - Part 3 - "the abyss is really gazing at you waiting for reality convergence"
 
 - Game Trilogy using Unreal designed to be inclusive, collaborative and accepting community contributions
-- Both Single Player and Loosely Coupled Multiplayer
+- Both Single Player with Loosely Coupled Multiplayer as a walking simulator lived in environment to base each narrative
 
 # Status
 
