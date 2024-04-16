@@ -13,14 +13,17 @@ All rights reserved while working out the details, except as described here. We 
 # Atonement - Part 1
 
 - "lost in time, never enough, try with everything you have"
+- "There is no before, just the beingness of living in the AFter"
 
 # Redemption - Part 2 
 
 - "finding the North Star, navigating the possible"
+- "Redemption is almost an ilusion, a moving target between Atonement and the precursor to Ascension, and if you fail to seize Redemption from the Void, the Abyss abides"
 
 # Transcendence - Part 3
 
 - "the abyss is really gazing at you waiting for reality convergence"
+- "The problem with Transcendence is those you leave behind"
 
 # Description
 
